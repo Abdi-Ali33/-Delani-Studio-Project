@@ -12,3 +12,7 @@ html {
   background-size: cover;
   background-position: center center;
 }
+#home .home-details .logo {
+  height: 55px;
+  width: 55px;
+}
