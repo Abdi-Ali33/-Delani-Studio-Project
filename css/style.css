@@ -16,3 +16,16 @@ html {
   height: 55px;
   width: 55px;
 }
+#home .scroll-down {
+  position: absolute;
+  bottom: 1.3rem;
+}
+#home .scroll-down button {
+  height: 2.4rem;
+  width: 1.5rem;
+  line-height: 1.3rem;
+  background: transparent;
+  border: 2px solid #fff;
+  cursor: pointer;
+  transform: rotate(180deg);
+}
