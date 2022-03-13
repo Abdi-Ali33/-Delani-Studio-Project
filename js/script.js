@@ -10,7 +10,7 @@ $(function() {
         if (formValid) {
             const name = $("input.name").val();
 
-            alert(`Thank you ${name}, your message has been received`);
+            alert(`${name},We have received your message,Thank you for reaching out to us`);
             clearForm();
         }
     });
