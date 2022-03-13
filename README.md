@@ -6,7 +6,7 @@
 
 ## Description
 
-The Project is about landing page website for a fictional Delani Studio that showing its services and a form to reach out to them
+The Project is about landing page website for a fictional Delani Studio that showing its services and a form to reach out to them.
 
 ## Screenshot
 
@@ -30,3 +30,48 @@ The Project is about landing page website for a fictional Delani Studio that sho
 
 3. Navigate to the cloned or downloaded folder
 4. Open index.html file with your browser
+
+## Behaviour Driven Development(BDD)
+
+1. Displays Form For Entering name,email and message.
+   - INPUT: "User's name Entered"
+   - INPUT: "User's email Entered"
+   - INPUT: "User's message Entered"
+   - OUTPUT: "Displays user's name with message that says we have received your message. Thank you fro reaching out to us."
+2. Displays an Error Message if name,email and message Input Left Blank
+   - INPUT: ""
+   - OUTPUT: "Displays Error Message"
+
+## Licence
+
+MIT License
+
+Copyright (c) 2022 Abdi-Ali33
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Live Link
+
+[Here is live link to the site](https://abdi-ali33.github.io/-Delani-Studio-Project/)
+
+## Authors Info
+
+Slack Profile - [Abdi Ali](https://app.slack.com/client/T0101L740P4/D032HD8S7CP)
+
+Github Profile- https://github.com/Abdi-Ali33
